@@ -1,1 +1,5 @@
-
+{
+  "insulinSensitivity": 45.0,
+  "absorptionRate": 0.025,
+  "eliminationRate": 0.012
+}
